@@ -1,0 +1,34 @@
+_repo: Darwiniana-Essays-and-Reviews-Pertaining-to-Darwinism_5273
+creator:
+  author:
+    agent_name: Gray, Asa
+    birthdate: 1810
+    deathdate: 1888
+    gutenberg_agent_id: '1757'
+    url: http://www.gutenberg.org/2009/agents/1757
+    wikipedia: http://en.wikipedia.org/wiki/Asa_Gray
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural selection'
+- !lcsh 'Evolution (Biology)'
+- !lcsh 'Darwin, Charles, 1809-1882'
+tableOfContents: 'The origin of species by means of natural selection -- Design versus
+  necessity, a discussion -- Natural selection not inconsistent with natural theology
+  -- Species as to variation, geographical distribution, and succession -- Sequoia
+  and its history: the relations of North American to Northeastern Asian and to Tertiary
+  vegetation -- The attitude of working naturalists toward Darwinism -- Evolution
+  and theology -- "What is Darwinism?" -- Charles Darwin: sketch accompanying a portrait
+  in "Nature" -- Insectivorous plants -- Insectivorous and climbing plants -- Duration
+  and origination of race and species -- Evolutionary teleology.'
+title: Darwiniana; Essays and Reviews Pertaining to Darwinism
+url: http://www.gutenberg.org/ebooks/5273
