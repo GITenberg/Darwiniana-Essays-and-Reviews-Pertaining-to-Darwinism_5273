@@ -1,5 +1,5 @@
 _repo: Darwiniana-Essays-and-Reviews-Pertaining-to-Darwinism_5273
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Natural selection'
 - !lcsh 'Evolution (Biology)'
 - !lcsh 'Darwin, Charles, 1809-1882'
+- GITenberg
 tableOfContents: 'The origin of species by means of natural selection -- Design versus
   necessity, a discussion -- Natural selection not inconsistent with natural theology
   -- Species as to variation, geographical distribution, and succession -- Sequoia
